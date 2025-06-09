@@ -2,11 +2,11 @@
 
 > **Super AI Innovation**
 >**Team Members:**
-- "**Kiadtisak Preechanon** -  "         
-- "**Kittiphat Noikate**    - ??? "
-- "**Suphawadi Poolpuang**  - ??? "
-- "**Saranwich Pochai**     - ??? "
-- "**Krittikorn Sangthong** - ??? "
+- "**Kiadtisak Preechanon** - Frontend Programing "         
+- "**Suphawadi Poolpuang**  - Frontend UX/UI "
+- "**Kittiphat Noikate**    - Backend API-Database "
+- "**Krittikorn Sangthong** - Backend AI "
+- "**Saranwich Pochai**     - Backend DevOps "
 
 ---
 
